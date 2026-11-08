@@ -1,0 +1,430 @@
+{
+  "results": [
+    {
+      "drug_id": "drg_ebefeca31ba7fb",
+      "name": "ALENDRONATE SODIUM",
+      "atc_codes": [],
+      "status": "eligible_for_review",
+      "score": 0.668485,
+      "risk_score": 0.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.838003,
+        "collaborative": 0.941085,
+        "graph": 0.0,
+        "popularity": 0.142124
+      },
+      "reasons": [
+        "未检索到明确严重 DDI 或过敏冲突，但仍需人工复核"
+      ],
+      "interactions": [],
+      "rank": 1
+    },
+    {
+      "drug_id": "drg_4023edce247e04",
+      "name": "Levothyroxine",
+      "atc_codes": [
+        "H03AA01"
+      ],
+      "status": "eligible_for_review",
+      "score": 0.519102,
+      "risk_score": 0.055206,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 1.0,
+        "collaborative": 0.144806,
+        "graph": 0.047428,
+        "popularity": 0.006294
+      },
+      "reasons": [
+        "NCATS 记录到 2 条严重不良反应记录",
+        "候选药具有不良反应先验，需要人工复核"
+      ],
+      "interactions": [],
+      "rank": 2
+    },
+    {
+      "drug_id": "drg_9de10de47c89ff",
+      "name": "Cholestyramine",
+      "atc_codes": [
+        "C10AC01"
+      ],
+      "status": "eligible_for_review",
+      "score": 0.50348,
+      "risk_score": 0.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.986786,
+        "collaborative": 0.0,
+        "graph": 0.067247,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "未检索到明确严重 DDI 或过敏冲突，但仍需人工复核"
+      ],
+      "interactions": [],
+      "rank": 3
+    },
+    {
+      "drug_id": "drg_2a9ee30f28afcd",
+      "name": "Atorvastatin",
+      "atc_codes": [
+        "C10AA05"
+      ],
+      "status": "eligible_for_review",
+      "score": 0.502818,
+      "risk_score": 0.034831,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.749117,
+        "collaborative": 0.401407,
+        "graph": 0.282152,
+        "popularity": 0.012589
+      },
+      "reasons": [
+        "NCATS 记录到 1 条严重不良反应记录",
+        "候选药具有不良反应先验，需要人工复核"
+      ],
+      "interactions": [],
+      "rank": 4
+    },
+    {
+      "drug_id": "drg_6d5657a770f437",
+      "name": "CHOLESTYRAMINE POWDER FOR SUSPENSION",
+      "atc_codes": [],
+      "status": "eligible_for_review",
+      "score": 0.492958,
+      "risk_score": 0.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.985916,
+        "collaborative": 0.0,
+        "graph": 0.0,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "未检索到明确严重 DDI 或过敏冲突，但仍需人工复核"
+      ],
+      "interactions": [],
+      "rank": 5
+    },
+    {
+      "drug_id": "drg_c473ea674296f5",
+      "name": "Bisoprolol Fumarate",
+      "atc_codes": [
+        "C07AB07"
+      ],
+      "status": "eligible_for_review",
+      "score": 0.479807,
+      "risk_score": 0.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.84757,
+        "collaborative": 0.0,
+        "graph": 0.373479,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "未检索到明确严重 DDI 或过敏冲突，但仍需人工复核"
+      ],
+      "interactions": [],
+      "rank": 6
+    },
+    {
+      "drug_id": "drg_72d4477f5525ea",
+      "name": "Gemfibrozil",
+      "atc_codes": [
+        "C10AB04"
+      ],
+      "status": "eligible_for_review",
+      "score": 0.476001,
+      "risk_score": 0.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.885752,
+        "collaborative": 0.0,
+        "graph": 0.220834,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "未检索到明确严重 DDI 或过敏冲突，但仍需人工复核"
+      ],
+      "interactions": [],
+      "rank": 7
+    },
+    {
+      "drug_id": "drg_b2ca0a88145fc0",
+      "name": "LIOTHYRONINE SODIUM",
+      "atc_codes": [],
+      "status": "eligible_for_review",
+      "score": 0.474008,
+      "risk_score": 0.055206,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.9977,
+        "collaborative": 0.0,
+        "graph": 0.0,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "NCATS 记录到 2 条严重不良反应记录",
+        "候选药具有不良反应先验，需要人工复核"
+      ],
+      "interactions": [],
+      "rank": 8
+    },
+    {
+      "drug_id": "drg_e092e90cbfa75b",
+      "name": "TESTOSTERONE CYPIONATE",
+      "atc_codes": [],
+      "status": "eligible_for_review",
+      "score": 0.473798,
+      "risk_score": 0.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.947596,
+        "collaborative": 0.0,
+        "graph": 0.0,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "未检索到明确严重 DDI 或过敏冲突，但仍需人工复核"
+      ],
+      "interactions": [],
+      "rank": 9
+    },
+    {
+      "drug_id": "drg_ed1f02b144086e",
+      "name": "Fosinopril Sodium",
+      "atc_codes": [
+        "C09AA09"
+      ],
+      "status": "eligible_for_review",
+      "score": 0.471259,
+      "risk_score": 0.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.873683,
+        "collaborative": 0.0,
+        "graph": 0.229449,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "未检索到明确严重 DDI 或过敏冲突，但仍需人工复核"
+      ],
+      "interactions": [],
+      "rank": 10
+    }
+  ],
+  "blocked_preview": [
+    {
+      "drug_id": "drg_bd2d754e867857",
+      "name": "Warfarin",
+      "atc_codes": [
+        "B01AA03"
+      ],
+      "status": "blocked",
+      "score": 0.031702,
+      "risk_score": 1.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.947215,
+        "collaborative": 0.0,
+        "graph": 0.053963,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "与当前用药 Clopidogrel 存在高风险相互作用",
+        "与当前用药 Simvastatin 存在高风险相互作用",
+        "与当前用药 Acetylsalicylic acid 存在高风险相互作用",
+        "与当前用药 Amlodipine 存在高风险相互作用",
+        "NCATS 记录到 1 条严重不良反应记录"
+      ],
+      "interactions": [
+        {
+          "drug_id": "drg_388fac91e0e6e3",
+          "drug_name": "Clopidogrel",
+          "severity": "high",
+          "description": "increase bleeding risk || increase gi bleeding"
+        },
+        {
+          "drug_id": "drg_6eb5003d09fd61",
+          "drug_name": "Simvastatin",
+          "severity": "high",
+          "description": "decrease bleeding risk || increase bleeding risk"
+        },
+        {
+          "drug_id": "drg_46682ff66bcfb1",
+          "drug_name": "Acetylsalicylic acid",
+          "severity": "high",
+          "description": "decrease bleeding risk || increase bleeding risk"
+        },
+        {
+          "drug_id": "drg_a61a46e7183a75",
+          "drug_name": "Amlodipine",
+          "severity": "high",
+          "description": "increase bleeding risk"
+        }
+      ]
+    },
+    {
+      "drug_id": "drg_da494e3b41324a",
+      "name": "Extended Phenytoin Sodium",
+      "atc_codes": [
+        "N03AB02"
+      ],
+      "status": "blocked",
+      "score": -0.006708,
+      "risk_score": 1.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.869056,
+        "collaborative": 0.0,
+        "graph": 0.058424,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "与当前用药 Simvastatin 存在高风险相互作用",
+        "NCATS 记录到 13 条严重不良反应记录"
+      ],
+      "interactions": [
+        {
+          "drug_id": "drg_6eb5003d09fd61",
+          "drug_name": "Simvastatin",
+          "severity": "high",
+          "description": "increase bleeding risk"
+        }
+      ]
+    },
+    {
+      "drug_id": "drg_56c0466606662e",
+      "name": "Aspirin and Dipyridamole",
+      "atc_codes": [
+        "N02BA01;A01AD05;B01AC06;B01AC07"
+      ],
+      "status": "blocked",
+      "score": -0.016462,
+      "risk_score": 1.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.8036,
+        "collaborative": 0.0,
+        "graph": 0.211585,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "与当前用药 Acetylsalicylic acid 存在高风险相互作用"
+      ],
+      "interactions": [
+        {
+          "drug_id": "drg_46682ff66bcfb1",
+          "drug_name": "Acetylsalicylic acid",
+          "severity": "high",
+          "description": "increase bleeding risk || bleeding risk || increase hypoglycemia"
+        }
+      ]
+    },
+    {
+      "drug_id": "drg_90af93ffa118ad",
+      "name": "Naproxen",
+      "atc_codes": [
+        "M01AE02",
+        "M01AE02;G02CC02;M02AA12"
+      ],
+      "status": "blocked",
+      "score": -0.036561,
+      "risk_score": 1.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.644255,
+        "collaborative": 0.235659,
+        "graph": 0.114554,
+        "popularity": 0.152132
+      },
+      "reasons": [
+        "与当前用药 Acetylsalicylic acid 存在高风险相互作用",
+        "NCATS 记录到 37 条严重不良反应记录"
+      ],
+      "interactions": [
+        {
+          "drug_id": "drg_46682ff66bcfb1",
+          "drug_name": "Acetylsalicylic acid",
+          "severity": "high",
+          "description": "decrease drug exposure || bleeding risk || increase bleeding risk || increase gi bleeding"
+        }
+      ]
+    },
+    {
+      "drug_id": "drg_ffb6bc63efaec8",
+      "name": "Verapamil",
+      "atc_codes": [
+        "C08DA01"
+      ],
+      "status": "blocked",
+      "score": -0.041319,
+      "risk_score": 1.0,
+      "evidence_score": 1.0,
+      "scores": {
+        "text": 0.77266,
+        "collaborative": 0.0,
+        "graph": 0.149005,
+        "popularity": 0.0
+      },
+      "reasons": [
+        "与当前用药 Simvastatin 存在需关注相互作用",
+        "与当前用药 Metoprolol 存在需关注相互作用",
+        "与当前用药 Acetylsalicylic acid 存在高风险相互作用",
+        "NCATS 记录到 25 条严重不良反应记录"
+      ],
+      "interactions": [
+        {
+          "drug_id": "drg_6eb5003d09fd61",
+          "drug_name": "Simvastatin",
+          "severity": "moderate",
+          "description": "drug exposure"
+        },
+        {
+          "drug_id": "drg_4cd1ee151c63c1",
+          "drug_name": "Metoprolol",
+          "severity": "moderate",
+          "description": "decrease drug exposure || increase bradycardia || increase hypertension"
+        },
+        {
+          "drug_id": "drg_46682ff66bcfb1",
+          "drug_name": "Acetylsalicylic acid",
+          "severity": "high",
+          "description": "increase bleeding risk"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "candidate_count": 2430,
+    "blocked_count": 114,
+    "review_count": 150,
+    "resolved_current_medications": [
+      "drg_c4e49dc4d5662f",
+      "drg_388fac91e0e6e3",
+      "drg_6eb5003d09fd61",
+      "drg_4cd1ee151c63c1",
+      "drg_0ba29d83d58966",
+      "drg_c0b34bf63c027c",
+      "drg_9f77d1a3579544",
+      "drg_0621ff1c344113",
+      "drg_69802fb55d308b",
+      "drg_46682ff66bcfb1",
+      "drg_a61a46e7183a75",
+      "drg_a364e6272931ef"
+    ],
+    "unresolved_medications": [],
+    "unresolved_allergies": [],
+    "unresolved_candidates": [],
+    "weights": {
+      "text": 0.5,
+      "collaborative": 0.25,
+      "graph": 0.15,
+      "popularity": 0.1
+    },
+    "disclaimer": "仅供科研和人工复核，不构成处方建议。DDI 严重度由公开数据描述规则推断，缺失数据不等于安全。"
+  }
+}

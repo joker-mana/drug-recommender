@@ -1,0 +1,13 @@
+{
+  "labels": 3866,
+  "label_drugs": 1361,
+  "registry_drugs": 6813,
+  "candidate_drugs": 2441,
+  "ddi_raw_rows": 36571,
+  "ddi_unique_pairs": 16596,
+  "synthea_medication_rows": 3216,
+  "synthea_medications_mapped": 3216,
+  "synthea_unique_drugs": 109,
+  "synthea_patients_with_meds": 107,
+  "toxicity_drugs": 944
+}
